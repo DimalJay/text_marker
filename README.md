@@ -14,9 +14,18 @@ and the Flutter guide for
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
 
-## Features
+## Installl
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+
+  text_marker:
+    git:
+      url: https://github.com/DimalJay/text_marker
+      ref: main # branch name
+```
 
 ## Getting started
 
